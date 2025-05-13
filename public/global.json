@@ -7,6 +7,9 @@
     "example-mvnv",
     "example-VLAT-full-randomized",
     "example-VLAT-mini-randomized",
+    "stem-paths-faculty",
+    "stem-paths-student",
+    "basic-questionnaire-study",
     "demo-html",
     "demo-html-input",
     "demo-survey",
@@ -145,6 +148,18 @@
     "test-step-logic": {
       "path": "test-step-logic/config.json",
       "test": true
+    },
+
+    "basic-questionnaire-study": {
+	    "path": "basic-questionnaire-study/config.json"
+    },
+
+    "stem-paths-faculty": {
+      "path": "stem-paths-faculty/config.json"
+    },
+
+    "stem-paths-student": {
+      "path": "stem-paths-student/config.json"
     }
   }
 }
